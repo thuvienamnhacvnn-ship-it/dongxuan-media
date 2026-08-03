@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none" role="img" aria-label="Đồng Xuân Media">
+  <rect width="320" height="80" fill="none"/>
+  <!-- Mark: geometric D + X inspired monogram -->
+  <g transform="translate(8,12)">
+    <rect x="0" y="0" width="56" height="56" rx="4" fill="#C8101E"/>
+    <path d="M14 14h16c9 0 15 6 15 14s-6 14-15 14H14V14z" fill="none" stroke="#F1C75B" stroke-width="3.2"/>
+    <path d="M36 18l12 20-12 20" fill="none" stroke="#F7F3EA" stroke-width="2.4" stroke-linecap="square"/>
+    <path d="M48 18L36 38l12 20" fill="none" stroke="#D9A12E" stroke-width="2.4" stroke-linecap="square"/>
+  </g>
+  <text x="78" y="38" font-family="Arial Black, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="0.08em" fill="#111216">ĐỒNG XUÂN</text>
+  <text x="78" y="58" font-family="Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.32em" fill="#C8101E">MEDIA</text>
+  <line x1="78" y1="44" x2="200" y2="44" stroke="#D9A12E" stroke-width="1.5"/>
+</svg>
